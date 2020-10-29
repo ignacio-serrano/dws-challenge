@@ -1,1 +1,4 @@
 # dws-challenge
+
+## Notes
+
